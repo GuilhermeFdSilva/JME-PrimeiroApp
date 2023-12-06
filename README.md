@@ -11,7 +11,7 @@ Esse foi meu primeiro aplicativo desenvolvido para Android. 🥹 <br>
 
 ## Só acredito vendo 👀
 
-Para poder rodar esse projeto no sua máquina você vai precisar de:
+Para poder rodar esse projeto na sua máquina você vai precisar de:
 
 - [Android Studio](https://developer.android.com/studio?hl=pt-br)
 
